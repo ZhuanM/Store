@@ -1,0 +1,1 @@
+Receipt [id: 1, employee: Employee [id: 564, name: Nikola, salary: 700], date: 2021-06-15, markedGoods: {Carrot=[16.3875, 2], Table=[90.780, 1], Cucumber=[1.725, 3]}, totalMoney: 180.60]
